@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(phase-2-architecture)",
+      "Skill(phase-2-architecture:*)"
+    ]
+  }
+}
