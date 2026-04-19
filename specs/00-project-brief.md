@@ -8,11 +8,11 @@
 
 ## Problem Statement
 
-<!-- 1-2 paragraphs: What pain does this app solve? Who feels it? -->
-<!-- Example: "Most salaried professionals have no clear picture of where their
+1-2 paragraphs: What pain does this app solve? Who feels it? -->
+Example: "Most salaried professionals have no clear picture of where their
      money goes each month. They track nothing, overspend on discretionary
      categories, and hit the end of the month surprised. Existing tools like
-     Mint are bloated; spreadsheets require too much discipline." -->
+     Mint are bloated; spreadsheets require too much discipline."
 
 [FILL IN]
 
@@ -22,7 +22,7 @@
 
 <!-- One sentence: What does success look like in 12 months? -->
 <!-- Example: "A fast, focused personal finance tracker that gives any individual
-     a clear picture of their spending vs budget in under 5 minutes per week." -->
+     a clear picture of their spending vs budget in under 5 minutes per week."
 
 [FILL IN]
 
