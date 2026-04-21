@@ -43,15 +43,3 @@ Financial freedom is the main goal. To see myself managaing my money with atmost
 - **Budget:** Free tier
 
 ---
-
-## Success Metrics
-
-- [Metric 1]
-- [Metric 2]
-- [Metric 3]
-
----
-
-## Additional Context
-
-I have tried to use multiple apps like Mint, YNAB, etc. but none of them met my needs. They were either too complicated or too simple. I wanted something that was in between.
